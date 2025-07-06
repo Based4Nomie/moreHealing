@@ -1,0 +1,42 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	SuperHealingPotion: {
+		DisplayName: Super Healing Potion
+		Tooltip: ""
+	}
+
+	AnkhTalisman: {
+		DisplayName: Ankh Talisman
+		Tooltip: ""
+	}
+
+	GigaHealingPotion: {
+		DisplayName: Giga Healing Potion
+		Tooltip: ""
+	}
+
+	DeltaHealingPotion: {
+		DisplayName: Delta Healing Potion
+		Tooltip: ""
+	}
+
+	AuricHunter: {
+		DisplayName: Auric Hunter
+		Tooltip: ""
+	}
+
+	AuricRock: {
+		DisplayName: Auric Rock
+		Tooltip: ""
+	}
+
+	CrownedAegis.DisplayName: Crowned Aegis
+
+	EndlessWings: {
+		DisplayName: Endless Wings
+		Tooltip: ""
+	}
+}
+
+Projectiles.HollowPulseCore.DisplayName: Hollow Pulse Core
